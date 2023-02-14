@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .todo-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  #current-todos h2 {
+    margin-bottom: 20px;
+  }
+  
+  .todo {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .completed {
+    background-color: lightgray;
+    text-decoration: line-through;
+  }
+  
