@@ -1,0 +1,89 @@
+#first{
+    background-color: rgb(147, 167, 185);
+    margin: 0%;
+    background-image: url('wallpapere.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Gemstones', cursive;
+}
+
+#second{
+  background-color: rgb(147, 167, 185);
+  margin: 0%;
+  background-image: url('anime.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+span{
+    border-style: dotted;
+    padding: 5px;
+    margin: 12px 25px 12px 25px;
+    font-family: 'Rubik Gemstones', cursive;
+    font-size: 18px;
+    border-radius: 3px;
+}
+
+#intro{
+    margin: 12px 25px 12px 25px;
+    padding: 5px;
+    font-size: 15px;
+    background-color:cadetblue;
+    color:antiquewhite;
+    border-radius: 5px;
+}
+
+#nv{
+    border-style: double;
+    margin: 12px 25px 12px 25px;
+    padding: 5px;
+    background-color: azure;
+    display: flex;
+    justify-content:space-evenly;
+    border-radius: 5px;
+}
+
+#btn{
+    margin: 12px 25px 12px 25px;
+    padding: 5px;
+    display: flex;
+    justify-content:space-evenly;
+    border-radius: 5px;
+}
+
+a:hover {
+    /* background-color:aqua; */
+    color:red;
+    transition-duration: 0.4s;
+    /* padding-left: 3px;
+    padding-right: 3px; */
+  }
+
+  .button{
+    background-color:aqua;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .button1:hover {
+    background-color: #1e515d;
+    color: white;
+  }
+
+  .button2:hover {
+    background-color: #1e515d;
+    color: white;
+  }
