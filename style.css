@@ -10,13 +10,9 @@
 font-family: 'Rubik Gemstones', cursive;
 }
 
-#second{
-  background-color: rgb(147, 167, 185);
-  margin: 0%;
-  background-image: url('anime.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
+#sec{
+  background-color: bisque;
+  color: black;
 }
 
 header{
