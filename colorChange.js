@@ -1,7 +1,7 @@
 const $ = document.querySelector.bind(document);
 
 function colorChange(){
-    document.body.style.background = color;
+    document.body.style.background = "#ccc";
 }
 
-window.addEventListener("load",function() { changeBackground('blue') });
+
